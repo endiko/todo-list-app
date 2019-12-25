@@ -1,0 +1,15 @@
+.nav-menu {
+  &__list {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background: #cecaca;
+  }
+  &__item {
+    padding: 15px 10px;
+    color: #ffffff;
+  }
+  &__link {
+    text-decoration: none;
+  }
+}
