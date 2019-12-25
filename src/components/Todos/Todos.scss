@@ -1,0 +1,10 @@
+.todo-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  width: 65vw;
+  padding: 2rem;
+  border-radius: 8px;
+  gap: 1rem;
+  border: 1px solid #e0e0e0;
+}
