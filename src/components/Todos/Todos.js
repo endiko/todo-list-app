@@ -7,9 +7,10 @@ export default props => (
     {props.todos.map((item, index) => (
       <Todo
         key={item.id}
-        title={item.title}
+        todo={item}
         onEditTodo={e => props.onEditTodo(e, index)}
         onDeleteTodo={() => props.onDeleteTodo(index)}
+        onCompleteTodo={(e) => props.onCompleteTodo(e, index)}
       />
     ))}
   </ul>
