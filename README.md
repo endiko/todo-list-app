@@ -2,13 +2,12 @@
  Практика React JS.
  Простой Todo list с функциями добавления, удаления, редактирования todo.
  
- Начальные данные при загрузке страницы подгружаются с fake online API JSONPlaceholder:
+ Начальные данные при загрузке страницы подгружаются с fake online API JSONPlaceholder.
+ Для работы с JSONPlaceholder используется fetch API.
 ```
+
 [Fake online API JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 
-```
-Для работы с JSONPlaceholder используется fetch API
-```
 
 
 
