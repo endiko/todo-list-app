@@ -4,7 +4,7 @@
  
  Начальные данные при загрузке страницы подгружаются с fake online API JSONPlaceholder:
 ```
-[fake online API JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+[Fake online API JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 
 ```
 Для работы с JSONPlaceholder используется fetch API
