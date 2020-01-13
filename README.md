@@ -1,3 +1,17 @@
+```
+ Практика React JS.
+ Простой Todo list с функциями добавления, удаления, редактирования todo.
+ 
+ Начальные данные при загрузке страницы подгружаются с 
+```
+[fake online API JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+
+```
+Для работы с JSONPlaceholder используется fetch API
+```
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
