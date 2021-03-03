@@ -2,6 +2,8 @@
  Практика React JS.
  Простой Todo list с функциями добавления, удаления, редактирования todo.
  
+ [Demo](https://todo-reactjs-app.netlify.com/)
+ 
  Начальные данные при загрузке страницы подгружаются с fake online API JSONPlaceholder.
  Для работы с JSONPlaceholder используется fetch API.
 ```
